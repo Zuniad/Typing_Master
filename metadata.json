@@ -1,0 +1,6 @@
+{
+  "name": "Typewriter Typing Tutor",
+  "description": "Master every keystroke. One letter at a time. An immersive mechanical typewriter typing tutor with vintage craftsmanship and modern glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
